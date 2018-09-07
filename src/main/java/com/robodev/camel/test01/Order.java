@@ -1,5 +1,7 @@
 package com.robodev.camel.test01;
 
+import org.apache.camel.component.jpa.Consumed;
+
 import javax.persistence.*;
 
 @Entity
